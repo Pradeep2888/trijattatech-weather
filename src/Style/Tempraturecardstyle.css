@@ -1,0 +1,14 @@
+.card{
+    /* border: 1px solid red; */
+    padding: 1rem;
+    height: auto;
+    width: auto;
+    background-color:#a5eef9;
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 360px) {
+    .card{
+      margin-bottom: 1rem;
+    }
+  }
